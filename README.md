@@ -29,4 +29,4 @@ Feel free to elaborate on how you would improve any of the following topics
 
 * Craeate a custom component for expand and collapse
 
-* Add smooth animations and scss files 
+* Add acessability and testing
